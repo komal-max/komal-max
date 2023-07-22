@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)]
 <h1 align="center">Hi 👋, I'm Komal Minhas</h1>
 <h3 align="center">Passion for tech 😎currently based in Canada</h3>
-<img align="right" alt="Coding" width="400" src=“https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif”>
+<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-max&label=Profile%20views&color=0e75b6&style=flat" alt="komal-max" /> </p>
 
