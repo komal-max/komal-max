@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **komalminhas.96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JvXmabBcVE2_L71TMY5AGAySIZbBdkiB/view?usp=sharing](https://drive.google.com/file/d/1JvXmabBcVE2_L71TMY5AGAySIZbBdkiB/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1JvXmabBcVE2_L71TMY5AGAySIZbBdkiB/view?usp=sharing](https://drive.google.com/file/d/1yfQ0ZZqW8TRkABvwNHtNwvbMe_Q6Fh1s/view?usp=sharing)](https://drive.google.com/file/d/1JvXmabBcVE2_L71TMY5AGAySIZbBdkiB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
