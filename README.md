@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-max&label=Profile%20views&color=0e75b6&style=flat" alt="komal-max" /> </p>
 
-- 🌱 I’m currently learning **Python, Ansible**
+- 🌱 I’m currently learning **Python, Ansible, Full-Stack Web Development**
 
 - 📫 How to reach me **komalminhas.96@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/komal-minhas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal minhas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/komal-minhas/, https://iamkomal.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal minhas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
